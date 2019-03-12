@@ -13,6 +13,9 @@
 3. A gerência de atividades permite compartilhar o processador, executando mais de uma aplicação ao mesmo tempo.
    Identifique as principais vantagens trazidas por essa funcionalidade e os desafios a resolver para implementá-la.
    
+   Como já sitado no enunciado, uma das principais vantagens é a simultaneidade no uso de aplicações sem causar conflitos
+   no hardware, com isso o maior desafio em implementa-la é o uso "democrático" do poder de processamento.
+   
 4. O que caracteriza um sistema operacional de tempo real? Quais as duas classificações de sistemas operacionais de
    tempo real e suas diferenças?
    
