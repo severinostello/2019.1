@@ -1,7 +1,14 @@
 1. Quais os dois principais objetivos dos sistemas operacionais?
 
+   Abstração e gerência de recursos.
+
 2. Por que a abstração de recursos é importante para os desenvolvedores de aplicações? Ela tem utilidade para os
    desenvolvedores do próprio sistema operacional?
+   
+   É impoortante porque tira a necessidade de toda aplicação ter "conhecimento" de liguagem de baixo nivel, ou de varios
+   tipos de hardware ou, ainda, comunicação com tecnologias distintas, tudo isso é papel do sistema operacional. Logo ela,
+   a abstração de recursos, tem mais utilidade aos desenvolvedores de sistemas operacionais, pois através dela ele consegue
+   gerenciar os recursos do S.O. resolvendo conflitos de softwares, etc.
    
 3. A gerência de atividades permite compartilhar o processador, executando mais de uma aplicação ao mesmo tempo.
    Identifique as principais vantagens trazidas por essa funcionalidade e os desafios a resolver para implementá-la.
